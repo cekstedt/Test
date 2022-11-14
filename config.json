@@ -1,0 +1,11 @@
+{
+  "name": "Basic Node and Express",
+  "repo": "https://github.com/cekstedt/FreeCodeCamp-Express",
+  "challenger": "FreeCodeCamp",
+  "challenge page": "https://www.freecodecamp.org/learn/back-end-development-and-apis/basic-node-and-express/",
+  "hosted": "https://savory-husky-colt.glitch.me/",
+  "original": false,
+  "personal": false,
+  "thumbnail": "thumbnail.png",
+  "technologies": ["js", "node", "express"]
+}
