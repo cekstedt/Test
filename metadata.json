@@ -7,5 +7,7 @@
   "original": false,
   "personal": false,
   "thumbnail": "thumbnail.png",
-  "technologies": ["js", "node", "express"]
+  "technologies": ["js", "node", "express"],
+  "status": "complete",
+  "priority": "done"
 }
